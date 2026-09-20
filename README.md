@@ -21,4 +21,4 @@ The project artwork is illustrative CSS, not application screenshots. Fonts use 
 
 Push to this repository's `main` branch. In GitHub Settings → Pages, choose **Deploy from a branch**, **main**, **/ (root)**.
 
-Content was based on the owner's previous website and public repositories. Education and employment are omitted until confirmed. Section structure and cyan accents were inspired by https://nazmulhasan77.github.io/; implementation and layout are original.
+Content was based on the owner's previous website and public repositories. Employment and current project roles were supplied by the owner in September 2026: Senior Developer at Butterfly Devs, Main Programmer for NafsGuard, and IQC (Quran Quiz) client development at approximately 95% completion. Public project descriptions are based on their repository READMEs. Section structure and cyan accents were inspired by https://nazmulhasan77.github.io/; implementation and layout are original.
